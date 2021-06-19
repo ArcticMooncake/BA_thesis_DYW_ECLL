@@ -1,1 +1,1 @@
-This repository contains the bachelor thesis and source code of Dan Yu Wang and Emma Cathrine Liisborg Leschly from Department of Computer Science, University of Copenhagen. Handed in on June 11th 2021.
+This repository contains the bachelor thesis and source code of Dan Yu Wang and Emma Cathrine Liisborg Leschly from the Department of Computer Science at University of Copenhagen. Handed in on June 11th 2021.
